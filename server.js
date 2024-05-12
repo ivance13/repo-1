@@ -12,7 +12,7 @@ const kursSchema = new mongoose.Schema({
     required: [true, "Mora da ima oblast"],
     minlength: 1,
     maxlength: [30, "Oblast je predugacka"],
-  },
+  },6786787878
 });
 owieryhnyt4ipoe5ypt4pypyvbuwetipoyvbuwetnipybunpwoetywbnetipybuwntpoibuywtp
 wetyweiouyvbwehnpiovbywenporiyvbwenpoivbywenpoivbywebnvipoywevnipowerybnwepoiyvb
