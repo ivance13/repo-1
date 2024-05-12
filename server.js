@@ -13,10 +13,6 @@ const kursSchema = new mongoose.Schema({
     minlength: 1,
     maxlength: [30, "Oblast je predugacka"],
   },
-  akademija: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: "Akademija",
-  },
 });
 
 const Akademija = mongoose.model("Kurs", kursSchema);
