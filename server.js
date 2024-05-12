@@ -2,12 +2,7 @@ const mongoose = require("mongoose");
 const validator = require("validator");
 
 const kursSchema = new mongoose.Schema({
-  name: {
-    type: String,
-    required: [true, "Mora da ima ime"],
-    minlength: 1,
-  
-  },
+
   email: {
     type: String,
     validate: validator.isEmail,
