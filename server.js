@@ -8,5 +8,5 @@ const kursSchema = new mongoose.Schema({
     unique: [true, "Email mora biti jedinstven"],
   },
   type: {
- 
+ uytfvuiytfv
 module.exports = Akademija;
