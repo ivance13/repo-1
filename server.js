@@ -14,7 +14,9 @@ const kursSchema = new mongoose.Schema({
     maxlength: [30, "Oblast je predugacka"],
   },
 });
-
+owieryhnyt4ipoe5ypt4pypyvbuwetipoyvbuwetnipybunpwoetywbnetipybuwntpoibuywtp
+wetyweiouyvbwehnpiovbywenporiyvbwenpoivbywenpoivbywebnvipoywevnipowerybnwepoiyvb
+wetpyioweyvpowei5yvpweioyvbwernpoivywernipvbyeiowerywbnipoerybnweripoyvweripoyep
 const Akademija = mongoose.model("Kurs", kursSchema);
 
 module.exports = Akademija;
