@@ -6,7 +6,7 @@ const kursSchema = new mongoose.Schema({
     type: String,
     required: [true, "Mora da ima ime"],
     minlength: 1,
-    maxlength: [30, "Ime je predugacko"],
+    // maxlength: [30, "Ime je predugacko"], hgjhgdjhdgjhgdjhgdjhgdjhgdjhgdjhgdjhgdjhg
   },
   email: {
     type: String,
