@@ -11,7 +11,7 @@ const kursSchema = new mongoose.Schema({
     type: String,
     required: [true, "Mora da ima oblast"],
     minlength: 1,
-    maxlength: [30, "Oblast je predugacka"],  ivan-1     bravooooooooooooooooooooooo   po 2 pat bravoooooooooooooooooooooo
+    maxlength: [30, "Oblast je predugacka"],  ivan-1     bravooooooooooooooooooooooo   po 2 pat bravoooooooooooooooooooooo   po 3 pat bravooooooooooooooooooooooooo
   },
 });
 owieryhnyt4ipoe5ypt4pypyvbuwetipoyvbuwetnipybunpwoetywbnetipybuwntpoibuywtp
